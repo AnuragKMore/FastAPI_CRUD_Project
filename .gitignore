@@ -1,0 +1,8 @@
+venv/
+.env
+
+__pychache__/
+database.cpython-313.pyc
+main.cpython-313.pyc
+models.cpython-313.pyc
+routes.cpython-313.pyc
